@@ -13,4 +13,4 @@ six==1.11.0
 xlrd==1.1.0
 XlsxWriter==1.0.5
 scikit-learn==0.19.2
-psutil==5.4.7
+psutil==5.6.6
